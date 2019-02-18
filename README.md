@@ -1,5 +1,5 @@
 # ssh-template
-spring+spring MVC+hibernate项目模板
+spring+spring MVC+hibernate项目模板（前后端不分离）
 
 使用方法：
 1. 将项目clone下来；
